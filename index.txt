@@ -1,5 +1,5 @@
 
-imatge
+
 Aquest es el paragraf 1 per a Desenvolupament.
 
 Aquest es el paragraf 2 per a Desenvolupament.
